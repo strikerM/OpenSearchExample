@@ -1,0 +1,15 @@
+{
+  "name": "opensearchApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack -w"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "opensearch-browser": "^0.0.21"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3"
+  }
+}
